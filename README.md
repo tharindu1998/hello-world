@@ -1,2 +1,4 @@
 # hello-world
-just anothe rrepository
+just another repository
+i am a student of sliit university srilanka
+
